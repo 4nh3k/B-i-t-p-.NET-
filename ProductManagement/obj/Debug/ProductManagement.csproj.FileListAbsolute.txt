@@ -1,0 +1,26 @@
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.frmProdManagement.resources
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.dll
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\bin\Debug\EntityFramework.xml
+C:\Users\tuanb\Downloads\.NET Core\.NET Exercise SE\.NET-Exercise\ProductManagement\obj\Debug\ProductManagement.csproj.CopyComplete
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.frmProdManagement.resources
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductManagement.pdb
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\bin\Debug\EntityFramework.dll
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\bin\Debug\EntityFramework.xml
+C:\Users\tiena\source\repos\SE310.P11\ProductManagement\obj\Debug\ProductM.8086A758.Up2Date
